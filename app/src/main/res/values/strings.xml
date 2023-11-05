@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SignUp Assignment</string>
+
+    <string name="facebook_app_id">349377064232253</string>
+    <string name="fb_login_protocol_scheme">fb349377064232253</string>
+    <string name="facebook_client_token">56789</string>
+</resources>
